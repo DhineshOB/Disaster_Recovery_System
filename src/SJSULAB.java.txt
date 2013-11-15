@@ -1,0 +1,15 @@
+
+
+public class SJSULAB
+{
+    
+    public static String getVmwareHostURL() { return "https://130.65.132.200/sdk" ; }
+    public static String getVmwareLogin() { return "administrator" ; }
+    public static String getVmwarePassword() { return "12!@qwQW" ; }
+    public static String getVmwareVM() { return "T08-vm01-Ubuntu32-Dhinesh" ; }
+    public static String getRp1() { return "Dhinesh" ; }
+    
+}
+
+
+
